@@ -1,0 +1,28 @@
+<?xml version="1.0" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>LV_Packages</title>
+    <description>LV_Packages</description>
+    <pubDate>Mon, 12 Jun 2017 09:09:43 -0400</pubDate>
+    <link>file:///d:/github/lv_packages/trunk</link>
+    <atom:link href="file:///d:/github/lv_packages/trunk/index.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Socket Class v1.1.0.3</title>
+      <description>&lt;img alt="" src="file:///d:/github/lv_packages/trunk/packages/nist_lib_socket_class/nist_lib_socket_class-1.1.0.3.bmp"&gt;&lt;br&gt;
+&lt;br&gt;
+Product: Socket Class v1.1.0.3&lt;br&gt;
+Company: NIST&lt;br&gt;
+Release Date: Mon, 12 Jun 2017 09:09:41 -0400&lt;br&gt;
+Packager: Allen Goldstein&lt;br&gt;
+&lt;br&gt;
+Description: Socket class:  A low-level networking API.  Currently there are two child classes, Socket.TCP and Socket.UDP.  &lt;br&gt;
+&lt;br&gt;
+Release Notes: First Release&lt;br&gt;
+&lt;br&gt;</description>
+      <pubDate>Mon, 12 Jun 2017 09:09:41 -0400</pubDate>
+      <guid isPermaLink="false">nist_lib_socket_class-1.1.0.3</guid>
+      <dc:creator>NIST</dc:creator>
+      <link>http://https://github.com/usnistgov</link>
+    </item>
+  </channel>
+</rss>

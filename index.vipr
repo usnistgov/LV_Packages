@@ -1,0 +1,18 @@
+[Self]
+Self.Name=LV_Packages
+Self.URL=file:///d:/github/lv_packages/trunk
+Release.Number=1
+Release.Date=Mon, 12 Jun 2017 09:09:43 -0400
+Self.ID=e862bc1bcac3a7892189cea85d0f3146
+Client.GlobalAccess=TRUE
+
+[Package nist_lib_socket_class-1.1.0.3]
+Package.URL=packages/nist_lib_socket_class/nist_lib_socket_class-1.1.0.3.vip
+Icon.URL=packages/nist_lib_socket_class/nist_lib_socket_class-1.1.0.3.bmp
+Spec.URL=packages/nist_lib_socket_class/nist_lib_socket_class-1.1.0.3.spec
+Package.MD5=9f3cb60f584c0442b52f7605bdb6a387
+Package.Release Date=Mon, 12 Jun 2017 09:09:41 -0400
+Platform.Exclusive_LabVIEW_Version=LabVIEW>=14.0
+Platform.Exclusive_OS=ALL
+Package.Display Name=Socket Class
+Platform.Exclusive_VIPM_Version=2014
