@@ -1,8 +1,8 @@
 [Package]
 Name="nist_lib_socket_class"
-Version="1.2.0.4"
+Version="1.2.0.5"
 Release=""
-ID=fbf9b3a3ca13af348ffac52da87c8656
+ID=006518766010ab82b783ed114392ee7f
 File Format="vip"
 Format Version="2014"
 Display Name="Socket Class"
@@ -18,7 +18,7 @@ Vendor="NIST"
 URL="https://github.com/usnistgov"
 Packager="Allen Goldstein"
 Demo="FALSE"
-Release Notes="Packet size type increased from uint16 to uint32"
+Release Notes="Packet size type increased from uint16 to uint32.\0APython example code now receives very large data."
 System Package="FALSE"
 Sub Package="FALSE"
 License Agreement="TRUE"
