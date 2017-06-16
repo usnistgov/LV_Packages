@@ -1,9 +1,9 @@
 [Self]
 Self.Name=LV_Packages
 Self.URL=file:///d:/github/lv_packages/trunk
-Release.Number=2
-Release.Date=Mon, 12 Jun 2017 09:50:12 -0400
-Self.ID=98f2ec4acebcd5d211d7b79836493c60
+Release.Number=4
+Release.Date=Fri, 16 Jun 2017 08:41:35 -0400
+Self.ID=1d378abf8f55e99a6254e51b92a312a5
 Client.GlobalAccess=TRUE
 
 [Package nist_lib_socket_class-1.1.0.3]
@@ -12,6 +12,7 @@ Icon.URL=packages/nist_lib_socket_class/nist_lib_socket_class-1.1.0.3.bmp
 Spec.URL=packages/nist_lib_socket_class/nist_lib_socket_class-1.1.0.3.spec
 Package.MD5=9f3cb60f584c0442b52f7605bdb6a387
 Package.Release Date=Mon, 12 Jun 2017 09:09:41 -0400
+Package.Deprecated=TRUE
 Platform.Exclusive_LabVIEW_Version=LabVIEW>=14.0
 Platform.Exclusive_OS=ALL
 Package.Display Name=Socket Class
@@ -26,4 +27,15 @@ Package.Release Date=Mon, 12 Jun 2017 09:50:12 -0400
 Platform.Exclusive_LabVIEW_Version=LabVIEW>=14.0
 Platform.Exclusive_OS=ALL
 Package.Display Name=ErrorLib
+Platform.Exclusive_VIPM_Version=2014
+
+[Package nist_lib_socket_class-1.2.0.4]
+Package.URL=packages/nist_lib_socket_class/nist_lib_socket_class-1.2.0.4.vip
+Icon.URL=packages/nist_lib_socket_class/nist_lib_socket_class-1.2.0.4.bmp
+Spec.URL=packages/nist_lib_socket_class/nist_lib_socket_class-1.2.0.4.spec
+Package.MD5=ce6430177a0541d4ad3068308d652583
+Package.Release Date=Fri, 16 Jun 2017 08:41:23 -0400
+Platform.Exclusive_LabVIEW_Version=LabVIEW>=14.0
+Platform.Exclusive_OS=ALL
+Package.Display Name=Socket Class
 Platform.Exclusive_VIPM_Version=2014
