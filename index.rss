@@ -3,9 +3,27 @@
   <channel>
     <title>LV_Packages</title>
     <description>LV_Packages</description>
-    <pubDate>Fri, 16 Jun 2017 12:03:14 -0400</pubDate>
+    <pubDate>Wed, 21 Jun 2017 09:50:53 -0400</pubDate>
     <link>file:///d:/github/lv_packages/trunk</link>
     <atom:link href="file:///d:/github/lv_packages/trunk/index.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>BaseClasses v1.1.0.3</title>
+      <description>&lt;img alt="" src="file:///d:/github/lv_packages/trunk/packages/nist_lib_nistbaseclasses/nist_lib_nistbaseclasses-1.1.0.3.bmp"&gt;&lt;br&gt;
+&lt;br&gt;
+Product: BaseClasses v1.1.0.3&lt;br&gt;
+Company: NIST&lt;br&gt;
+Release Date: Wed, 21 Jun 2017 09:50:53 -0400&lt;br&gt;
+Packager: Allen Goldstein&lt;br&gt;
+&lt;br&gt;
+Description: Base Classes for many objects&lt;br&gt;
+&lt;br&gt;
+Release Notes: &lt;br&gt;
+&lt;br&gt;</description>
+      <pubDate>Wed, 21 Jun 2017 09:50:53 -0400</pubDate>
+      <guid isPermaLink="false">nist_lib_nistbaseclasses-1.1.0.3</guid>
+      <dc:creator>NIST</dc:creator>
+      
+    </item>
     <item>
       <title>Socket Class v1.2.0.5</title>
       <description>&lt;img alt="" src="file:///d:/github/lv_packages/trunk/packages/nist_lib_socket_class/nist_lib_socket_class-1.2.0.5.bmp"&gt;&lt;br&gt;
