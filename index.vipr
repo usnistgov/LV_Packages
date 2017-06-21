@@ -1,9 +1,9 @@
 [Self]
 Self.Name=LV_Packages
 Self.URL=file:///d:/github/lv_packages/trunk
-Release.Number=7
-Release.Date=Wed, 21 Jun 2017 09:50:53 -0400
-Self.ID=eb747f51be015735fcc9c999ae974b7f
+Release.Number=8
+Release.Date=Wed, 21 Jun 2017 15:10:52 -0400
+Self.ID=1162eecd4164731de06040803df8e49c
 Client.GlobalAccess=TRUE
 
 [Package nist_lib_socket_class-1.1.0.3]
@@ -49,4 +49,16 @@ Package.Release Date=Wed, 21 Jun 2017 09:50:53 -0400
 Platform.Exclusive_LabVIEW_Version=LabVIEW>=14.0
 Platform.Exclusive_OS=ALL
 Package.Display Name=BaseClasses
+Platform.Exclusive_VIPM_Version=2014
+
+[Package nist_lib_nistmoduleadminlib-2.1.0.4]
+Package.URL=packages/nist_lib_nistmoduleadminlib/nist_lib_nistmoduleadminlib-2.1.0.4.vip
+Icon.URL=packages/nist_lib_nistmoduleadminlib/nist_lib_nistmoduleadminlib-2.1.0.4.bmp
+Spec.URL=packages/nist_lib_nistmoduleadminlib/nist_lib_nistmoduleadminlib-2.1.0.4.spec
+Package.MD5=5d61b1d1f85827a5065a7975e236c02e
+Package.Release Date=Wed, 21 Jun 2017 15:10:51 -0400
+Platform.Exclusive_LabVIEW_Version=LabVIEW>=14.0
+Platform.Exclusive_OS=ALL
+Dependencies.Requires=nist_lib_nistbaseclasses>=1.0.0.1
+Package.Display Name=ModuleAdminLib
 Platform.Exclusive_VIPM_Version=2014

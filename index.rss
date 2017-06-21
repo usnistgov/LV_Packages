@@ -3,9 +3,27 @@
   <channel>
     <title>LV_Packages</title>
     <description>LV_Packages</description>
-    <pubDate>Wed, 21 Jun 2017 09:50:53 -0400</pubDate>
+    <pubDate>Wed, 21 Jun 2017 15:10:52 -0400</pubDate>
     <link>file:///d:/github/lv_packages/trunk</link>
     <atom:link href="file:///d:/github/lv_packages/trunk/index.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>ModuleAdminLib v2.1.0.4</title>
+      <description>&lt;img alt="" src="file:///d:/github/lv_packages/trunk/packages/nist_lib_nistmoduleadminlib/nist_lib_nistmoduleadminlib-2.1.0.4.bmp"&gt;&lt;br&gt;
+&lt;br&gt;
+Product: ModuleAdminLib v2.1.0.4&lt;br&gt;
+Company: NIST&lt;br&gt;
+Release Date: Wed, 21 Jun 2017 15:10:51 -0400&lt;br&gt;
+Packager: Allen Goldstein&lt;br&gt;
+&lt;br&gt;
+Description: Support Libraries for Clonable Modules and Pluggable Modules&lt;br&gt;
+&lt;br&gt;
+Release Notes: Renamed.  Built from the Github trunk.&lt;br&gt;
+&lt;br&gt;</description>
+      <pubDate>Wed, 21 Jun 2017 15:10:51 -0400</pubDate>
+      <guid isPermaLink="false">nist_lib_nistmoduleadminlib-2.1.0.4</guid>
+      <dc:creator>NIST</dc:creator>
+      
+    </item>
     <item>
       <title>BaseClasses v1.1.0.3</title>
       <description>&lt;img alt="" src="file:///d:/github/lv_packages/trunk/packages/nist_lib_nistbaseclasses/nist_lib_nistbaseclasses-1.1.0.3.bmp"&gt;&lt;br&gt;
