@@ -1,100 +1,50 @@
 <?xml version="1.0" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
-    <title>LV_Packages</title>
-    <description>LV_Packages</description>
-    <pubDate>Wed, 21 Jun 2017 15:10:52 -0400</pubDate>
-    <link>file:///d:/github/lv_packages/trunk</link>
-    <atom:link href="file:///d:/github/lv_packages/trunk/index.rss" rel="self" type="application/rss+xml"/>
+    <title/>
+    <description/>
+    <pubDate>Tue, 11 Jul 2017 13:08:40 -0400</pubDate>
+    <link/>
+    <atom:link href="file:///c:/projects/masters/lv_packages/index.rss" rel="self" type="application/rss+xml"/>
     <item>
-      <title>ModuleAdminLib v2.1.0.4</title>
-      <description>&lt;img alt="" src="file:///d:/github/lv_packages/trunk/packages/nist_lib_nistmoduleadminlib/nist_lib_nistmoduleadminlib-2.1.0.4.bmp"&gt;&lt;br&gt;
-&lt;br&gt;
-Product: ModuleAdminLib v2.1.0.4&lt;br&gt;
-Company: NIST&lt;br&gt;
-Release Date: Wed, 21 Jun 2017 15:10:51 -0400&lt;br&gt;
-Packager: Allen Goldstein&lt;br&gt;
-&lt;br&gt;
-Description: Support Libraries for Clonable Modules and Pluggable Modules&lt;br&gt;
-&lt;br&gt;
-Release Notes: Renamed.  Built from the Github trunk.&lt;br&gt;
-&lt;br&gt;</description>
-      <pubDate>Wed, 21 Jun 2017 15:10:51 -0400</pubDate>
-      <guid isPermaLink="false">nist_lib_nistmoduleadminlib-2.1.0.4</guid>
-      <dc:creator>NIST</dc:creator>
-      
+      <title/>
+      <description/>
+      <pubDate/>
+      <guid/>
+      <author/>
+      <link/>
     </item>
     <item>
-      <title>BaseClasses v1.1.0.3</title>
-      <description>&lt;img alt="" src="file:///d:/github/lv_packages/trunk/packages/nist_lib_nistbaseclasses/nist_lib_nistbaseclasses-1.1.0.3.bmp"&gt;&lt;br&gt;
-&lt;br&gt;
-Product: BaseClasses v1.1.0.3&lt;br&gt;
-Company: NIST&lt;br&gt;
-Release Date: Wed, 21 Jun 2017 09:50:53 -0400&lt;br&gt;
-Packager: Allen Goldstein&lt;br&gt;
-&lt;br&gt;
-Description: Base Classes for many objects&lt;br&gt;
-&lt;br&gt;
-Release Notes: &lt;br&gt;
-&lt;br&gt;</description>
-      <pubDate>Wed, 21 Jun 2017 09:50:53 -0400</pubDate>
-      <guid isPermaLink="false">nist_lib_nistbaseclasses-1.1.0.3</guid>
-      <dc:creator>NIST</dc:creator>
-      
+      <title/>
+      <description/>
+      <pubDate/>
+      <guid/>
+      <author/>
+      <link/>
     </item>
     <item>
-      <title>Socket Class v1.2.0.5</title>
-      <description>&lt;img alt="" src="file:///d:/github/lv_packages/trunk/packages/nist_lib_socket_class/nist_lib_socket_class-1.2.0.5.bmp"&gt;&lt;br&gt;
-&lt;br&gt;
-Product: Socket Class v1.2.0.5&lt;br&gt;
-Company: NIST&lt;br&gt;
-Release Date: Fri, 16 Jun 2017 12:03:13 -0400&lt;br&gt;
-Packager: Allen Goldstein&lt;br&gt;
-&lt;br&gt;
-Description: Socket class:  A low-level networking API.  Currently there are two child classes, Socket.TCP and Socket.UDP.  &lt;br&gt;
-&lt;br&gt;
-Release Notes: Packet size type increased from uint16 to uint32.&lt;br&gt;Python example code now receives very large data.&lt;br&gt;
-&lt;br&gt;</description>
-      <pubDate>Fri, 16 Jun 2017 12:03:13 -0400</pubDate>
-      <guid isPermaLink="false">nist_lib_socket_class-1.2.0.5</guid>
-      <dc:creator>NIST</dc:creator>
-      <link>http://https://github.com/usnistgov</link>
+      <title/>
+      <description/>
+      <pubDate/>
+      <guid/>
+      <author/>
+      <link/>
     </item>
     <item>
-      <title>ErrorLib v1.2.0.2</title>
-      <description>&lt;img alt="" src="file:///d:/github/lv_packages/trunk/packages/nist_lib_nisterrorlib/nist_lib_nisterrorlib-1.2.0.2.bmp"&gt;&lt;br&gt;
-&lt;br&gt;
-Product: ErrorLib v1.2.0.2&lt;br&gt;
-Company: NIST&lt;br&gt;
-Release Date: Mon, 12 Jun 2017 09:50:12 -0400&lt;br&gt;
-Packager: Allen Goldstein&lt;br&gt;
-&lt;br&gt;
-Description: Extends Labview Error Handling to create multiple errors with priorities and severities.&lt;br&gt;
-&lt;br&gt;
-Release Notes: Replaced the Error Display for improved scaling&lt;br&gt;
-&lt;br&gt;</description>
-      <pubDate>Mon, 12 Jun 2017 09:50:12 -0400</pubDate>
-      <guid isPermaLink="false">nist_lib_nisterrorlib-1.2.0.2</guid>
-      <dc:creator>NIST</dc:creator>
-      
+      <title/>
+      <description/>
+      <pubDate/>
+      <guid/>
+      <author/>
+      <link/>
     </item>
     <item>
-      <title>Socket Class v1.1.0.3</title>
-      <description>&lt;img alt="" src="file:///d:/github/lv_packages/trunk/packages/nist_lib_socket_class/nist_lib_socket_class-1.1.0.3.bmp"&gt;&lt;br&gt;
-&lt;br&gt;
-Product: Socket Class v1.1.0.3&lt;br&gt;
-Company: NIST&lt;br&gt;
-Release Date: Mon, 12 Jun 2017 09:09:41 -0400&lt;br&gt;
-Packager: Allen Goldstein&lt;br&gt;
-&lt;br&gt;
-Description: Socket class:  A low-level networking API.  Currently there are two child classes, Socket.TCP and Socket.UDP.  &lt;br&gt;
-&lt;br&gt;
-Release Notes: First Release&lt;br&gt;
-&lt;br&gt;</description>
-      <pubDate>Mon, 12 Jun 2017 09:09:41 -0400</pubDate>
-      <guid isPermaLink="false">nist_lib_socket_class-1.1.0.3</guid>
-      <dc:creator>NIST</dc:creator>
-      <link>http://https://github.com/usnistgov</link>
+      <title/>
+      <description/>
+      <pubDate/>
+      <guid/>
+      <author/>
+      <link/>
     </item>
   </channel>
 </rss>
