@@ -1,50 +1,64 @@
 <?xml version="1.0" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
-    <title/>
-    <description/>
-    <pubDate>Tue, 11 Jul 2017 13:08:40 -0400</pubDate>
-    <link/>
-    <atom:link href="file:///c:/projects/masters/lv_packages/index.rss" rel="self" type="application/rss+xml"/>
+    <title>NIST LV_Packages</title>
+    <description>NIST LV_Packages</description>
+    <pubDate>Thu, 16 Nov 2017 10:09:36 -0500</pubDate>
+    <link>file:///x:/projects/lv_packages</link>
+    <atom:link href="file:///x:/projects/lv_packages/index.rss" rel="self" type="application/rss+xml"/>
     <item>
-      <title/>
-      <description/>
-      <pubDate/>
-      <guid/>
-      <author/>
-      <link/>
+      <title>Socket Class v1.3.0.9</title>
+      <description>&lt;img alt="" src="file:///x:/projects/lv_packages/packages/nist_lib_socket_class/nist_lib_socket_class-1.3.0.9.bmp"&gt;&lt;br&gt;
+&lt;br&gt;
+Product: Socket Class v1.3.0.9&lt;br&gt;
+Company: NIST&lt;br&gt;
+Release Date: Thu, 16 Nov 2017 10:09:36 -0500&lt;br&gt;
+Packager: Allen Goldstein&lt;br&gt;
+&lt;br&gt;
+Description: Socket class:  A low-level networking API.  Currently there are two child classes, Socket.TCP and Socket.UDP.  &lt;br&gt;
+&lt;br&gt;
+Release Notes: Packet size type increased from uint16 to uint32.&lt;br&gt;Python example code now receives very large data.&lt;br&gt;
+&lt;br&gt;</description>
+      <pubDate>Thu, 16 Nov 2017 10:09:36 -0500</pubDate>
+      <guid isPermaLink="false">nist_lib_socket_class-1.3.0.9</guid>
+      <dc:creator>NIST</dc:creator>
+      <link>http://https://github.com/usnistgov</link>
     </item>
     <item>
-      <title/>
-      <description/>
-      <pubDate/>
-      <guid/>
-      <author/>
-      <link/>
+      <title>Socket Class v1.3.0.8</title>
+      <description>&lt;img alt="" src="file:///x:/projects/lv_packages/packages/nist_lib_socket_class/nist_lib_socket_class-1.3.0.8.bmp"&gt;&lt;br&gt;
+&lt;br&gt;
+Product: Socket Class v1.3.0.8&lt;br&gt;
+Company: NIST&lt;br&gt;
+Release Date: Thu, 16 Nov 2017 05:04:19 -0500&lt;br&gt;
+Packager: Allen Goldstein&lt;br&gt;
+&lt;br&gt;
+Description: Socket class:  A low-level networking API.  Currently there are two child classes, Socket.TCP and Socket.UDP.  &lt;br&gt;
+&lt;br&gt;
+Release Notes: Packet size type increased from uint16 to uint32.&lt;br&gt;Python example code now receives very large data.&lt;br&gt;
+&lt;br&gt;</description>
+      <pubDate>Thu, 16 Nov 2017 05:04:19 -0500</pubDate>
+      <guid isPermaLink="false">nist_lib_socket_class-1.3.0.8</guid>
+      <dc:creator>NIST</dc:creator>
+      <link>http://https://github.com/usnistgov</link>
     </item>
     <item>
-      <title/>
-      <description/>
-      <pubDate/>
-      <guid/>
-      <author/>
-      <link/>
-    </item>
-    <item>
-      <title/>
-      <description/>
-      <pubDate/>
-      <guid/>
-      <author/>
-      <link/>
-    </item>
-    <item>
-      <title/>
-      <description/>
-      <pubDate/>
-      <guid/>
-      <author/>
-      <link/>
+      <title>Socket Class v1.3.0.7</title>
+      <description>&lt;img alt="" src="file:///x:/projects/lv_packages/packages/nist_lib_socket_class/nist_lib_socket_class-1.3.0.7.bmp"&gt;&lt;br&gt;
+&lt;br&gt;
+Product: Socket Class v1.3.0.7&lt;br&gt;
+Company: NIST&lt;br&gt;
+Release Date: Thu, 16 Nov 2017 04:48:03 -0500&lt;br&gt;
+Packager: Allen Goldstein&lt;br&gt;
+&lt;br&gt;
+Description: Socket class:  A low-level networking API.  Currently there are two child classes, Socket.TCP and Socket.UDP.  &lt;br&gt;
+&lt;br&gt;
+Release Notes: Packet size type increased from uint16 to uint32.&lt;br&gt;Python example code now receives very large data.&lt;br&gt;
+&lt;br&gt;</description>
+      <pubDate>Thu, 16 Nov 2017 04:48:03 -0500</pubDate>
+      <guid isPermaLink="false">nist_lib_socket_class-1.3.0.7</guid>
+      <dc:creator>NIST</dc:creator>
+      <link>http://https://github.com/usnistgov</link>
     </item>
   </channel>
 </rss>

@@ -1,58 +1,40 @@
 [Self]
-Release.Number=5
-Release.Date=Tue, 11 Jul 2017 13:08:40 -0400
-Self.ID=2a6bd99feb07c317f8e1f5180049ed4c
+Self.Name=NIST LV_Packages
+Self.URL=file:///x:/projects/lv_packages
+Release.Number=3
+Release.Date=Thu, 16 Nov 2017 10:09:36 -0500
+Self.ID=16c6345a3c55cf237a86ae1e1af0ddb1
 Client.GlobalAccess=TRUE
 
-[Package nist_lib_nistbaseclasses-1.1.0.3]
-Package.URL=packages/nist_lib_nistbaseclasses/nist_lib_nistbaseclasses-1.1.0.3.vip
-Icon.URL=packages/nist_lib_nistbaseclasses/nist_lib_nistbaseclasses-1.1.0.3.bmp
-Spec.URL=packages/nist_lib_nistbaseclasses/nist_lib_nistbaseclasses-1.1.0.3.spec
-Package.Release Date=Tue, 11 Jul 2017 13:07:20 -0400
-Platform.Exclusive_LabVIEW_Version=LabVIEW>=14.0
-Platform.Exclusive_OS=ALL
-Package.Display Name=BaseClasses
-Platform.Exclusive_VIPM_Version=2014
-
-[Package nist_lib_nisterrorlib-1.2.0.2]
-Package.URL=packages/nist_lib_nisterrorlib/nist_lib_nisterrorlib-1.2.0.2.vip
-Icon.URL=packages/nist_lib_nisterrorlib/nist_lib_nisterrorlib-1.2.0.2.bmp
-Spec.URL=packages/nist_lib_nisterrorlib/nist_lib_nisterrorlib-1.2.0.2.spec
-Package.Release Date=Tue, 11 Jul 2017 13:07:37 -0400
-Platform.Exclusive_LabVIEW_Version=LabVIEW>=14.0
-Platform.Exclusive_OS=ALL
-Package.Display Name=ErrorLib
-Platform.Exclusive_VIPM_Version=2014
-
-[Package nist_lib_nistmoduleadminlib-2.1.0.4]
-Package.URL=packages/nist_lib_nistmoduleadminlib/nist_lib_nistmoduleadminlib-2.1.0.4.vip
-Icon.URL=packages/nist_lib_nistmoduleadminlib/nist_lib_nistmoduleadminlib-2.1.0.4.bmp
-Spec.URL=packages/nist_lib_nistmoduleadminlib/nist_lib_nistmoduleadminlib-2.1.0.4.spec
-Package.Release Date=Tue, 11 Jul 2017 13:07:48 -0400
-Platform.Exclusive_LabVIEW_Version=LabVIEW>=14.0
-Platform.Exclusive_OS=ALL
-Dependencies.Requires=nist_lib_nistbaseclasses>=1.0.0.1
-Package.Display Name=ModuleAdminLib
-Platform.Exclusive_VIPM_Version=2014
-
-[Package nist_lib_socket_class-1.2.0.5]
-Package.URL=packages/nist_lib_socket_class/nist_lib_socket_class-1.2.0.5.vip
-Icon.URL=packages/nist_lib_socket_class/nist_lib_socket_class-1.2.0.5.bmp
-Spec.URL=packages/nist_lib_socket_class/nist_lib_socket_class-1.2.0.5.spec
-Package.Release Date=Tue, 11 Jul 2017 13:08:02 -0400
+[Package nist_lib_socket_class-1.3.0.7]
+Package.URL=packages/nist_lib_socket_class/nist_lib_socket_class-1.3.0.7.vip
+Icon.URL=packages/nist_lib_socket_class/nist_lib_socket_class-1.3.0.7.bmp
+Spec.URL=packages/nist_lib_socket_class/nist_lib_socket_class-1.3.0.7.spec
+Package.MD5=823e77b914d5d6b36699513a0cd908c6
+Package.Release Date=Thu, 16 Nov 2017 04:48:03 -0500
 Platform.Exclusive_LabVIEW_Version=LabVIEW>=14.0
 Platform.Exclusive_OS=ALL
 Package.Display Name=Socket Class
 Platform.Exclusive_VIPM_Version=2014
 
-[Package nist_lib_nist_qmh_template-0.1.0.1]
-Package.URL=packages/nist_lib_nist_qmh_template/nist_lib_nist_qmh_template-0.1.0.1.vip
-Icon.URL=packages/nist_lib_nist_qmh_template/nist_lib_nist_qmh_template-0.1.0.1.bmp
-Spec.URL=packages/nist_lib_nist_qmh_template/nist_lib_nist_qmh_template-0.1.0.1.spec
-Package.MD5=67f68f3008d1e75f20b7d88691a89257
-Package.Release Date=Tue, 11 Jul 2017 13:08:40 -0400
+[Package nist_lib_socket_class-1.3.0.8]
+Package.URL=packages/nist_lib_socket_class/nist_lib_socket_class-1.3.0.8.vip
+Icon.URL=packages/nist_lib_socket_class/nist_lib_socket_class-1.3.0.8.bmp
+Spec.URL=packages/nist_lib_socket_class/nist_lib_socket_class-1.3.0.8.spec
+Package.MD5=3e380409dda889367987019be7b652aa
+Package.Release Date=Thu, 16 Nov 2017 05:04:19 -0500
 Platform.Exclusive_LabVIEW_Version=LabVIEW>=14.0
 Platform.Exclusive_OS=ALL
-Dependencies.Requires=nist_lib_nisterrorlib>=1.1.0.2
-Package.Display Name=NIST QMH Template
+Package.Display Name=Socket Class
+Platform.Exclusive_VIPM_Version=2014
+
+[Package nist_lib_socket_class-1.3.0.9]
+Package.URL=packages/nist_lib_socket_class/nist_lib_socket_class-1.3.0.9.vip
+Icon.URL=packages/nist_lib_socket_class/nist_lib_socket_class-1.3.0.9.bmp
+Spec.URL=packages/nist_lib_socket_class/nist_lib_socket_class-1.3.0.9.spec
+Package.MD5=76e9725e27f169b84ee65d7ad2199c9e
+Package.Release Date=Thu, 16 Nov 2017 10:09:36 -0500
+Platform.Exclusive_LabVIEW_Version=LabVIEW>=14.0
+Platform.Exclusive_OS=ALL
+Package.Display Name=Socket Class
 Platform.Exclusive_VIPM_Version=2014

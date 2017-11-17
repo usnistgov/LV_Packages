@@ -1,8 +1,8 @@
 [Package]
 Name="nist_lib_socket_class"
-Version="1.3.0.6"
+Version="1.3.0.9"
 Release=""
-ID=b09f08e5a0841448dfe3ee3ec4abe681
+ID=66422a5dd21ed48fad6c06d5b843faed
 File Format="vip"
 Format Version="2014"
 Display Name="Socket Class"
