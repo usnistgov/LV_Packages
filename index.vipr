@@ -1,9 +1,9 @@
 [Self]
 Self.Name=NIST LV_Packages
 Self.URL=file:///x:/projects/lv_packages
-Release.Number=3
-Release.Date=Thu, 16 Nov 2017 10:09:36 -0500
-Self.ID=16c6345a3c55cf237a86ae1e1af0ddb1
+Release.Number=10
+Release.Date=Tue, 02 Jan 2018 15:52:02 -0500
+Self.ID=ced8316998cb5822380bccd25a628951
 Client.GlobalAccess=TRUE
 
 [Package nist_lib_socket_class-1.3.0.7]
@@ -37,4 +37,76 @@ Package.Release Date=Thu, 16 Nov 2017 10:09:36 -0500
 Platform.Exclusive_LabVIEW_Version=LabVIEW>=14.0
 Platform.Exclusive_OS=ALL
 Package.Display Name=Socket Class
+Platform.Exclusive_VIPM_Version=2014
+
+[Package nist_lib_nistmoduleadminlib-2.2.0.5]
+Package.URL=packages/nist_lib_nistmoduleadminlib/nist_lib_nistmoduleadminlib-2.2.0.5.vip
+Icon.URL=packages/nist_lib_nistmoduleadminlib/nist_lib_nistmoduleadminlib-2.2.0.5.bmp
+Spec.URL=packages/nist_lib_nistmoduleadminlib/nist_lib_nistmoduleadminlib-2.2.0.5.spec
+Package.MD5=5f5c415845ab68e3e1b73de6ffc0f6e1
+Package.Release Date=Thu, 28 Dec 2017 09:50:55 -0500
+Platform.Exclusive_LabVIEW_Version=LabVIEW>=14.0
+Platform.Exclusive_OS=ALL
+Dependencies.Requires=nist_lib_nistbaseclasses>=1.0.0.1
+Package.Display Name=ModuleAdminLib
+Platform.Exclusive_VIPM_Version=2014
+
+[Package nist_lib_nistmoduleadminlib-2.2.0.6]
+Package.URL=packages/nist_lib_nistmoduleadminlib/nist_lib_nistmoduleadminlib-2.2.0.6.vip
+Icon.URL=packages/nist_lib_nistmoduleadminlib/nist_lib_nistmoduleadminlib-2.2.0.6.bmp
+Spec.URL=packages/nist_lib_nistmoduleadminlib/nist_lib_nistmoduleadminlib-2.2.0.6.spec
+Package.MD5=ef74f9a96bf2a8fb8285fbd91e9346ae
+Package.Release Date=Thu, 28 Dec 2017 11:47:10 -0500
+Platform.Exclusive_LabVIEW_Version=LabVIEW>=14.0
+Platform.Exclusive_OS=ALL
+Dependencies.Requires=nist_lib_nistbaseclasses>=1.0.0.1
+Package.Display Name=ModuleAdminLib
+Platform.Exclusive_VIPM_Version=2014
+
+[Package nist_lib_nistmoduleadminlib-2.2.0.7]
+Package.URL=packages/nist_lib_nistmoduleadminlib/nist_lib_nistmoduleadminlib-2.2.0.7.vip
+Icon.URL=packages/nist_lib_nistmoduleadminlib/nist_lib_nistmoduleadminlib-2.2.0.7.bmp
+Spec.URL=packages/nist_lib_nistmoduleadminlib/nist_lib_nistmoduleadminlib-2.2.0.7.spec
+Package.MD5=cf670802461b39cdb08d63356d886c84
+Package.Release Date=Thu, 28 Dec 2017 11:52:43 -0500
+Platform.Exclusive_LabVIEW_Version=LabVIEW>=14.0
+Platform.Exclusive_OS=ALL
+Dependencies.Requires=nist_lib_nistbaseclasses>=1.0.0.1
+Package.Display Name=ModuleAdminLib
+Platform.Exclusive_VIPM_Version=2014
+
+[Package nist_lib_nistmoduleadminlib-2.2.0.8]
+Package.URL=packages/nist_lib_nistmoduleadminlib/nist_lib_nistmoduleadminlib-2.2.0.8.vip
+Icon.URL=packages/nist_lib_nistmoduleadminlib/nist_lib_nistmoduleadminlib-2.2.0.8.bmp
+Spec.URL=packages/nist_lib_nistmoduleadminlib/nist_lib_nistmoduleadminlib-2.2.0.8.spec
+Package.MD5=258b00f52c0478da30d97cc76178bc6f
+Package.Release Date=Thu, 28 Dec 2017 12:07:30 -0500
+Platform.Exclusive_LabVIEW_Version=LabVIEW>=14.0
+Platform.Exclusive_OS=ALL
+Dependencies.Requires=nist_lib_nistbaseclasses>=1.0.0.1
+Package.Display Name=ModuleAdminLib
+Platform.Exclusive_VIPM_Version=2014
+
+[Package nist_lib_nistmoduleadminlib-2.2.0.9]
+Package.URL=packages/nist_lib_nistmoduleadminlib/nist_lib_nistmoduleadminlib-2.2.0.9.vip
+Icon.URL=packages/nist_lib_nistmoduleadminlib/nist_lib_nistmoduleadminlib-2.2.0.9.bmp
+Spec.URL=packages/nist_lib_nistmoduleadminlib/nist_lib_nistmoduleadminlib-2.2.0.9.spec
+Package.MD5=f8d806a1d0f6275c9293fd8d1ecaaa5f
+Package.Release Date=Tue, 02 Jan 2018 15:40:48 -0500
+Platform.Exclusive_LabVIEW_Version=LabVIEW>=14.0
+Platform.Exclusive_OS=ALL
+Dependencies.Requires=nist_lib_nistbaseclasses>=1.0.0.1
+Package.Display Name=ModuleAdminLib
+Platform.Exclusive_VIPM_Version=2014
+
+[Package nist_lib_nistmoduleadminlib-2.2.0.10]
+Package.URL=packages/nist_lib_nistmoduleadminlib/nist_lib_nistmoduleadminlib-2.2.0.10.vip
+Icon.URL=packages/nist_lib_nistmoduleadminlib/nist_lib_nistmoduleadminlib-2.2.0.10.bmp
+Spec.URL=packages/nist_lib_nistmoduleadminlib/nist_lib_nistmoduleadminlib-2.2.0.10.spec
+Package.MD5=2cd47ddd56944fc10a2e89e328c34df7
+Package.Release Date=Tue, 02 Jan 2018 15:51:58 -0500
+Platform.Exclusive_LabVIEW_Version=LabVIEW>=14.0
+Platform.Exclusive_OS=ALL
+Dependencies.Requires=nist_lib_nistbaseclasses>=1.0.0.1
+Package.Display Name=ModuleAdminLib
 Platform.Exclusive_VIPM_Version=2014
